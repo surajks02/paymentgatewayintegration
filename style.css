@@ -1,0 +1,24 @@
+body{
+    
+    background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7));
+
+   background-image: url("donate.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+   border: cover solid black;
+}
+.navbar-brand{
+   padding: 5px 9px;
+   color: rgb(72, 245, 19);
+   font-weight: 600;
+}
+.col-12{
+   text-align: center;
+   color: rgb(240, 255, 32);
+   font-weight: 900;
+}
+form{
+   text-align: center;
+   margin: 20px;
+}
